@@ -16,5 +16,5 @@ Traditional credit systems often overlook Black and underbanked communities. Thi
 - Solidity (Loan & Reputation Logic)
 - Vyper (Credit Score Calculation)
 - Chainlink oracles (for external data)
-- Hardhat + Brownie (testing and deployment)
+- Hardhat, foundry, and Moccasin (testing and deployment)
 - ERC-721 (NFT-based identity)
